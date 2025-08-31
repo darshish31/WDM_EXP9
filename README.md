@@ -26,5 +26,10 @@ for this purpose.
 
 
 ### Output:
+<img width="1919" height="1133" alt="1" src="https://github.com/user-attachments/assets/da354712-0ba0-42f4-ba0a-f99d63d15486" />
+<img width="1919" height="1136" alt="2" src="https://github.com/user-attachments/assets/a8812021-7de4-48a8-8c06-5e284d87924a" />
+<img width="1919" height="1134" alt="3" src="https://github.com/user-attachments/assets/abdf83db-2f67-4024-b21f-26159ae58c04" />
+
 
 ### Result:
+Preprocessing of Twitter data completed successfully. ✅
